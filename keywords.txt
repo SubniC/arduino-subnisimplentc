@@ -1,0 +1,18 @@
+#########################################
+# Syntax Coloring Map For SteinhartHart
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)
+#########################################
+
+SubniSimpleNTC		KEYWORD1
+
+
+#########################################
+# Methods and Functions (KEYWORD2)
+#########################################
+
+getKelvin		KEYWORD2
+getCelsius		KEYWORD2
+getFahrenheit	KEYWORD2
